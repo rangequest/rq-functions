@@ -15,5 +15,5 @@ console.log(answer)
 ```
 
 <p align="center">
-    <img alt="RQ Functions" src="https://raw.githubusercontent.com/rangequest/rq-functions/main/images/rq-functions" width="600" />
+    <img alt="RQ Functions" src="https://raw.githubusercontent.com/rangequest/rq-functions/main/images/rq-functions.png" width="600" />
 </p>
