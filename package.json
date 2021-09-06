@@ -1,0 +1,24 @@
+{
+  "name": "rq-functions",
+  "version": "1.0.0",
+  "description": "Range Quest Function Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rangequest/rq-functions.git"
+  },
+  "keywords": [
+    "functions",
+    "math",
+    "range-quest"
+  ],
+  "author": "Range Quest",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rangequest/rq-functions/issues"
+  },
+  "homepage": "https://github.com/rangequest/rq-functions#readme"
+}
